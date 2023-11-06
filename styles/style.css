@@ -1,0 +1,52 @@
+:root {
+  --SoftGray: #ebe7eb;
+  --Primary: #e24400;
+}
+
+.desktop-1 {
+  width: 1440px;
+  /* width: 1410px;     */
+  height: 1782px;
+  background-color: var(--SoftGray);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 1782px;
+  top: -1983px;
+  left: -738px;
+}
+.frame-6 {
+  display: inline-flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: Hug (611px);
+  height: Hug (254px);
+  top: 188px;
+  left: 160px;
+  padding: 10px;
+  gap: 10px;
+  box-sizing: border-box;
+}
+
+.fight-like-a-champion {
+  width: 591px;
+  height: 234px;
+  color: var(--White, #fff);
+  font-family: Saira Condensed;
+  font-size: 130px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 90%; /* 117px */
+  text-transform: uppercase;
+}
+
+.champion {
+  color: var(--Primary, #e24400);
+  font-family: Saira Condensed;
+  font-size: 130px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 90%;
+  text-transform: uppercase;
+}
